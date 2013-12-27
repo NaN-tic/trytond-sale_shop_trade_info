@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- This file is part sale_shop_trade_infor module for Tryton.
+The COPYRIGHT file at the top level of this repository contains 
+the full copyright notices and license terms. -->
+<data>
+	<xpath expr="/form/notebook/page[@id='general']" position="after">
+		<page string="Trade Information" id="trade_info">
+			<label name="company_trade_name"/>
+			<field name="company_trade_name"/>
+			<label name="lang"/>
+			<field name="lang"/>
+			<label name="address"/>
+			<field name="address" colspan="3"/>
+			<label name="logo"/>
+			<field name="logo"/>
+		</page>
+	</xpath>
+</data>
