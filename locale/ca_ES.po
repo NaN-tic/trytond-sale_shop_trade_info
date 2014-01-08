@@ -1,0 +1,23 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:sale.shop,address:"
+msgid "Address"
+msgstr "Adreces"
+
+msgctxt "field:sale.shop,company_trade_name:"
+msgid "Company Trade Name"
+msgstr "Nom comercial empresa"
+
+msgctxt "field:sale.shop,lang:"
+msgid "Language"
+msgstr "Idioma"
+
+msgctxt "field:sale.shop,logo:"
+msgid "Logo"
+msgstr "Logotip"
+
+msgctxt "view:sale.shop:"
+msgid "Trade Information"
+msgstr "Informació comercial"
