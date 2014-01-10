@@ -9,8 +9,6 @@ the full copyright notices and license terms. -->
 			<field name="company_trade_name"/>
 			<label name="lang"/>
 			<field name="lang"/>
-			<label name="address"/>
-			<field name="address" colspan="3"/>
 			<label name="logo"/>
 			<field name="logo"/>
 		</page>

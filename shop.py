@@ -12,6 +12,5 @@ class Shop:
     __name__ = 'sale.shop'
 
     logo = fields.Binary('Logo')
-    address = fields.Many2One('party.address', 'Address')
     lang = fields.Many2One("ir.lang", 'Language')
     company_trade_name = fields.Char('Company Trade Name')
