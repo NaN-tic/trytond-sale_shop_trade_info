@@ -26,6 +26,10 @@ msgctxt "field:sale.shop,logo:"
 msgid "Logo"
 msgstr "Logotip"
 
+msgctxt "field:sale.shop,phone:"
+msgid "Phone"
+msgstr "Telèfon"
+
 msgctxt "field:sale.shop,website:"
 msgid "Website"
 msgstr "Lloc web"

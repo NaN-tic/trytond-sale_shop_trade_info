@@ -9,6 +9,8 @@ the full copyright notices and license terms. -->
 			<field name="company_trade_name"/>
 			<label name="lang"/>
 			<field name="lang"/>
+            <label name="phone"/>
+            <field name="phone"/>
             <label name="email"/>
             <field name="email" widget="url"/>
             <label name="website"/>
