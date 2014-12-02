@@ -14,5 +14,6 @@ class Shop:
     logo = fields.Binary('Logo')
     lang = fields.Many2One("ir.lang", 'Language')
     company_trade_name = fields.Char('Company Trade Name')
+    phone = fields.Char('Phone')
     website = fields.Char('Website')
     email = fields.Char('E-Mail')
